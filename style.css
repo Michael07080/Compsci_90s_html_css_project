@@ -1,0 +1,51 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(23, 19, 1);
+    text-align: center;
+    font-size: 16px;
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/066/635/462/original/den-pixelart-watertiles.gif?1693393538);
+    cursor: url(fish.png) 16 16, auto;
+}
+
+h1 {
+    color: darkslategrey;
+    font-size: 3em;
+}
+
+
+h2 {
+    color: darkslategrey;
+    font-size: 2em;
+}
+
+
+
+ p, table {
+    line-height: 1.5;
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 1em auto;  
+}
+ ul {
+    text-align: left;
+}
+
+ul {
+    padding-left: 500px;
+}
+
+table {
+    background-color:darkslateblue;
+    color:white; 
+    width: 50%;
+    box-shadow:rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;;
+}
+th, td {
+    border: 1px solid #555;
+    padding: 40px;
+}
+
+.little {
+    width: 250px;
+}
+
